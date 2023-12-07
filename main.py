@@ -1,3 +1,4 @@
+# тестовый коментарий
 from PIL import Image, ImageDraw, ImageFont
 print("Вэлком в дурдом")
 text_type = int(input("Введите 1 если надо писать только сверху и 2 если надо написать сверху и снизу "))
